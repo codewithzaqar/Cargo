@@ -13,6 +13,8 @@
     "electron": "^32.1.0",
     "electron-debug": "^4.0.1",
     "electron-is-dev": "^3.0.1",
-    "normalize-url": "^8.0.1"
+    "normalize-url": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "tldjs": "^2.3.1"
   }
 }
