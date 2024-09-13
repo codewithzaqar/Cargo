@@ -15,6 +15,7 @@
     "electron-is-dev": "^3.0.1",
     "normalize-url": "^8.0.1",
     "nprogress": "^0.2.0",
-    "tldjs": "^2.3.1"
+    "tldjs": "^2.3.1",
+    "vkey": "^1.0.1"
   }
 }
